@@ -17,8 +17,7 @@ def create_filename_string(topic: str = "AI") -> str:
     return f"./articles/{topic.replace(' ', '_').lower()}.md"
 
 def main():
-
-    # get userr input for the topic
+    # get user input for the topic
     topic = input("Enter the topic for the article: ")
     topic_filename = create_filename_string(topic)
 

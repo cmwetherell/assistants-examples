@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the my repository exploring the use of AI Assistants! This repository contains several examples to help get you started.. To get started with development, you need to set up a Poetry environment. Follow the steps below to clone the repository and set up the environment.
+Welcome to the my repository exploring the use of AI Assistants! This repository contains several examples to help get you started. To get started with development, you need to set up a Poetry environment. Follow the steps below to clone the repository and set up the environment.
 
 ## Prerequisites
 
