@@ -1,0 +1,3 @@
+.env
+# Ignore all .md files in the articles folder
+articles/*.md
